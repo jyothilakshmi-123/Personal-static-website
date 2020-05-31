@@ -78,7 +78,7 @@ li{
 }
 
 .my-banner{
-    background: url(/images/wo2.jpeg) no-repeat center top;
+    background: url(wo2.jpeg) no-repeat center top;
     background-size: cover;
     width: 100%;
     min-height: 580px;
@@ -192,7 +192,7 @@ h3 .text-center{
 }
 .about-left{
     
-    background: url(/images/wo4.jpeg) no-repeat 0px 0px;
+    background: url(wo4.jpeg) no-repeat 0px 0px;
     background-size: cover;
     height: 307;
     width: 350px;
@@ -335,7 +335,7 @@ ul.details-text li:nth-child(1){
 
 
 .sec-3{
-    background-image: linear-gradient(rgba(0,0,0,0.6),rgba(0,0,0,0.6)),url(/images/online.jpg);
+    background-image: linear-gradient(rgba(0,0,0,0.6),rgba(0,0,0,0.6)),url(online.jpg);
     background-size: cover;
     /* width: 100%; */
     background-position: center;

@@ -232,6 +232,7 @@ h3 .text-center{
     display: inline-block;
     color: #eee;
     margin-top: 1em;
+    font-size: .82em;
     /* margin-left: 2.5em; */
 }
 ul.details-text li:nth-child(1){

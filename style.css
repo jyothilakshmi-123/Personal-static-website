@@ -293,6 +293,7 @@ ul.details-text li:nth-child(1){
     color: #212121;
     letter-spacing: 0px;
     font-size: 0.875em;
+    /* text-transform: capitalize; */
     padding-top: 1em;
     /* padding-bottom: 10em; */
     border-top: 1px dashed #646464;
